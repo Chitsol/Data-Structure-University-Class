@@ -1,0 +1,14 @@
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\bin\Debug\netcoreapp3.1\DataStructurePractice11weeks.exe
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\bin\Debug\netcoreapp3.1\DataStructurePractice11weeks.deps.json
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\bin\Debug\netcoreapp3.1\DataStructurePractice11weeks.runtimeconfig.json
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\bin\Debug\netcoreapp3.1\DataStructurePractice11weeks.runtimeconfig.dev.json
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\bin\Debug\netcoreapp3.1\DataStructurePractice11weeks.dll
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\bin\Debug\netcoreapp3.1\DataStructurePractice11weeks.pdb
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\obj\Debug\netcoreapp3.1\DataStructurePractice11weeks.csproj.AssemblyReference.cache
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\obj\Debug\netcoreapp3.1\DataStructurePractice11weeks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\obj\Debug\netcoreapp3.1\DataStructurePractice11weeks.AssemblyInfoInputs.cache
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\obj\Debug\netcoreapp3.1\DataStructurePractice11weeks.AssemblyInfo.cs
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\obj\Debug\netcoreapp3.1\DataStructurePractice11weeks.csproj.CoreCompileInputs.cache
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\obj\Debug\netcoreapp3.1\DataStructurePractice11weeks.dll
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\obj\Debug\netcoreapp3.1\DataStructurePractice11weeks.pdb
+C:\Users\이영우\source\repos\DataStructurePractice11weeks\DataStructurePractice11weeks\obj\Debug\netcoreapp3.1\DataStructurePractice11weeks.genruntimeconfig.cache

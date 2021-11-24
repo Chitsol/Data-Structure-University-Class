@@ -1,0 +1,14 @@
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\bin\Debug\netcoreapp3.1\DateStructure6week.exe
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\bin\Debug\netcoreapp3.1\DateStructure6week.deps.json
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\bin\Debug\netcoreapp3.1\DateStructure6week.runtimeconfig.json
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\bin\Debug\netcoreapp3.1\DateStructure6week.runtimeconfig.dev.json
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\bin\Debug\netcoreapp3.1\DateStructure6week.dll
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\bin\Debug\netcoreapp3.1\DateStructure6week.pdb
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\obj\Debug\netcoreapp3.1\DateStructure6week.csproj.AssemblyReference.cache
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\obj\Debug\netcoreapp3.1\DateStructure6week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\obj\Debug\netcoreapp3.1\DateStructure6week.AssemblyInfoInputs.cache
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\obj\Debug\netcoreapp3.1\DateStructure6week.AssemblyInfo.cs
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\obj\Debug\netcoreapp3.1\DateStructure6week.csproj.CoreCompileInputs.cache
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\obj\Debug\netcoreapp3.1\DateStructure6week.dll
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\obj\Debug\netcoreapp3.1\DateStructure6week.pdb
+C:\Users\이영우\source\repos\DateStructure6week\DateStructure6week\obj\Debug\netcoreapp3.1\DateStructure6week.genruntimeconfig.cache

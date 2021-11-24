@@ -1,0 +1,14 @@
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\bin\Debug\netcoreapp3.1\DatastructurePracitce7week.exe
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\bin\Debug\netcoreapp3.1\DatastructurePracitce7week.deps.json
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\bin\Debug\netcoreapp3.1\DatastructurePracitce7week.runtimeconfig.json
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\bin\Debug\netcoreapp3.1\DatastructurePracitce7week.runtimeconfig.dev.json
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\bin\Debug\netcoreapp3.1\DatastructurePracitce7week.dll
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\bin\Debug\netcoreapp3.1\DatastructurePracitce7week.pdb
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\obj\Debug\netcoreapp3.1\DatastructurePracitce7week.csproj.AssemblyReference.cache
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\obj\Debug\netcoreapp3.1\DatastructurePracitce7week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\obj\Debug\netcoreapp3.1\DatastructurePracitce7week.AssemblyInfoInputs.cache
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\obj\Debug\netcoreapp3.1\DatastructurePracitce7week.AssemblyInfo.cs
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\obj\Debug\netcoreapp3.1\DatastructurePracitce7week.csproj.CoreCompileInputs.cache
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\obj\Debug\netcoreapp3.1\DatastructurePracitce7week.dll
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\obj\Debug\netcoreapp3.1\DatastructurePracitce7week.pdb
+C:\Users\이영우\source\repos\DatastructurePracitce7week\DatastructurePracitce7week\obj\Debug\netcoreapp3.1\DatastructurePracitce7week.genruntimeconfig.cache

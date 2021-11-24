@@ -1,0 +1,14 @@
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\bin\Debug\netcoreapp3.1\Datastructure5week.exe
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\bin\Debug\netcoreapp3.1\Datastructure5week.deps.json
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\bin\Debug\netcoreapp3.1\Datastructure5week.runtimeconfig.json
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\bin\Debug\netcoreapp3.1\Datastructure5week.runtimeconfig.dev.json
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\bin\Debug\netcoreapp3.1\Datastructure5week.dll
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\bin\Debug\netcoreapp3.1\Datastructure5week.pdb
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\obj\Debug\netcoreapp3.1\Datastructure5week.csproj.AssemblyReference.cache
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\obj\Debug\netcoreapp3.1\Datastructure5week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\obj\Debug\netcoreapp3.1\Datastructure5week.AssemblyInfoInputs.cache
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\obj\Debug\netcoreapp3.1\Datastructure5week.AssemblyInfo.cs
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\obj\Debug\netcoreapp3.1\Datastructure5week.csproj.CoreCompileInputs.cache
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\obj\Debug\netcoreapp3.1\Datastructure5week.dll
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\obj\Debug\netcoreapp3.1\Datastructure5week.pdb
+C:\Users\이영우\source\repos\Datastructure5week\Datastructure5week\obj\Debug\netcoreapp3.1\Datastructure5week.genruntimeconfig.cache

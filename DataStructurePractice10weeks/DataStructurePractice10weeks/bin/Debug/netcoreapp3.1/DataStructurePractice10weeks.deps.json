@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataStructurePractice10weeks/1.0.0": {
+        "runtime": {
+          "DataStructurePractice10weeks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataStructurePractice10weeks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

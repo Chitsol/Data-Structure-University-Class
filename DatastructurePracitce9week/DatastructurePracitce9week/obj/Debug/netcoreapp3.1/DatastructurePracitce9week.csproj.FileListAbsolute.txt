@@ -1,0 +1,14 @@
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\bin\Debug\netcoreapp3.1\DatastructurePracitce9week.exe
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\bin\Debug\netcoreapp3.1\DatastructurePracitce9week.deps.json
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\bin\Debug\netcoreapp3.1\DatastructurePracitce9week.runtimeconfig.json
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\bin\Debug\netcoreapp3.1\DatastructurePracitce9week.runtimeconfig.dev.json
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\bin\Debug\netcoreapp3.1\DatastructurePracitce9week.dll
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\bin\Debug\netcoreapp3.1\DatastructurePracitce9week.pdb
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\obj\Debug\netcoreapp3.1\DatastructurePracitce9week.csproj.AssemblyReference.cache
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\obj\Debug\netcoreapp3.1\DatastructurePracitce9week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\obj\Debug\netcoreapp3.1\DatastructurePracitce9week.AssemblyInfoInputs.cache
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\obj\Debug\netcoreapp3.1\DatastructurePracitce9week.AssemblyInfo.cs
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\obj\Debug\netcoreapp3.1\DatastructurePracitce9week.csproj.CoreCompileInputs.cache
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\obj\Debug\netcoreapp3.1\DatastructurePracitce9week.dll
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\obj\Debug\netcoreapp3.1\DatastructurePracitce9week.pdb
+C:\Users\이영우\source\repos\DatastructurePracitce9week\DatastructurePracitce9week\obj\Debug\netcoreapp3.1\DatastructurePracitce9week.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "exJT07Mj+wvyO3Jv0o/groBMmOssC0W10jkCc5Hzl9w2ekEIQHPNmxG0dR7nZLWe5KZtOWwKGeMaT57xc1MqzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\이영우\\source\\repos\\Datastructure5week\\Datastructure5week\\Datastructure5week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\이영우\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

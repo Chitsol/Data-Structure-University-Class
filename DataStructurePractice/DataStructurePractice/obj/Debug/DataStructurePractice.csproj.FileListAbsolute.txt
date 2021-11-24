@@ -1,0 +1,8 @@
+C:\Users\이영우\OneDrive\Desktop\DataStructurePractice\DataStructurePractice\DataStructurePractice\bin\Debug\ProjectTemplates\CSharp\1033\DataStructurePractice.zip
+C:\Users\이영우\OneDrive\Desktop\DataStructurePractice\DataStructurePractice\DataStructurePractice\obj\Debug\DataStructurePractice.csproj.AssemblyReference.cache
+C:\Users\이영우\OneDrive\Desktop\DataStructurePractice\DataStructurePractice\DataStructurePractice\obj\Debug\_EmptyResource.resources
+C:\Users\이영우\OneDrive\Desktop\DataStructurePractice\DataStructurePractice\DataStructurePractice\obj\Debug\DataStructurePractice.csproj.GenerateResource.cache
+C:\Users\이영우\OneDrive\Desktop\DataStructurePractice\DataStructurePractice\DataStructurePractice\obj\Debug\DataStructurePractice.csproj.CoreCompileInputs.cache
+C:\Users\이영우\OneDrive\Desktop\DataStructurePractice\DataStructurePractice\DataStructurePractice\obj\Debug\CSharp\1033\DataStructurePractice.zip
+C:\Users\이영우\OneDrive\Desktop\DataStructurePractice\DataStructurePractice\DataStructurePractice\obj\Debug\DataStructurePractice.dll
+C:\Users\이영우\OneDrive\Desktop\DataStructurePractice\DataStructurePractice\DataStructurePractice\obj\Debug\DataStructurePractice.pdb

@@ -1,0 +1,14 @@
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\bin\Debug\netcoreapp3.1\DataStructure3week.exe
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\bin\Debug\netcoreapp3.1\DataStructure3week.deps.json
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\bin\Debug\netcoreapp3.1\DataStructure3week.runtimeconfig.json
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\bin\Debug\netcoreapp3.1\DataStructure3week.runtimeconfig.dev.json
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\bin\Debug\netcoreapp3.1\DataStructure3week.dll
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\bin\Debug\netcoreapp3.1\DataStructure3week.pdb
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\obj\Debug\netcoreapp3.1\DataStructure3week.csproj.AssemblyReference.cache
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\obj\Debug\netcoreapp3.1\DataStructure3week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\obj\Debug\netcoreapp3.1\DataStructure3week.AssemblyInfoInputs.cache
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\obj\Debug\netcoreapp3.1\DataStructure3week.AssemblyInfo.cs
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\obj\Debug\netcoreapp3.1\DataStructure3week.csproj.CoreCompileInputs.cache
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\obj\Debug\netcoreapp3.1\DataStructure3week.dll
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\obj\Debug\netcoreapp3.1\DataStructure3week.pdb
+C:\Users\이영우\source\repos\DataStructure3week\DataStructure3week\obj\Debug\netcoreapp3.1\DataStructure3week.genruntimeconfig.cache

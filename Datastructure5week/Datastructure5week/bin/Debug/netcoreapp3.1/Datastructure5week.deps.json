@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Datastructure5week/1.0.0": {
+        "runtime": {
+          "Datastructure5week.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datastructure5week/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
